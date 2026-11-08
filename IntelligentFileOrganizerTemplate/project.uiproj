@@ -1,0 +1,6 @@
+{
+  "Name": "IntelligentFileOrganizerTemplate",
+  "ProjectType": "Process",
+  "Description": "Organizes files from a folder into categorized subfolders",
+  "MainFile": "Main.xaml"
+}
