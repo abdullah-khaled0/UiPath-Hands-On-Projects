@@ -4,6 +4,10 @@ A UiPath Windows process that organizes files from a source directory into categ
 
 The automation is implemented in `Main.xaml` and is designed for local attended execution from UiPath Studio or UiPath Assistant.
 
+## Demo
+
+[https://github.com/abdullah-khaled0/UiPath-Hands-On-Projects/issues/1#issue-6274450931](https://github.com/user-attachments/assets/092ff452-47dd-43bd-85e5-085ddb9bffea)
+
 ## Overview
 
 The workflow:
