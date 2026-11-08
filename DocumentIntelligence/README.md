@@ -4,6 +4,10 @@ A UiPath automation that monitors Google Drive for newly created invoice PDFs, e
 
 > **Project status:** The source projects are configured and locally validated. A complete production deployment and end-to-end cloud run are not claimed by this README.
 
+## Demo
+
+https://github.com/user-attachments/assets/84224a5a-6eb1-49b3-9f21-92723f4c2af2
+
 ## Overview
 
 This solution combines three UiPath projects:
